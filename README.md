@@ -1,4 +1,4 @@
-# Reinforcement-Learning-Atari
+# Deep Reinforcement Learning for Atari Games
 
 DQN Implementation for Atari games from the [MinAtar](https://github.com/kenjyoung/MinAtar) library.
 
